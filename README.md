@@ -23,6 +23,12 @@ fcto-animate se remplazó por data-aos=""
  02 / Julio / 2020
 
 ```
+```
+Se actualizó la meta description para que nos de un poco de contexto 
+al momento de compartir.
+
+03 / Julio / 2020 7:57pm
+```
 ## Autor
 * **Ismael Rosete** - *GACETIS* - [Lxrd17](https://github.com/Lxrd17)
 
