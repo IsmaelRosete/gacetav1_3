@@ -1,6 +1,6 @@
 ## Página principal.
 ### Index.html
-### Versión 1.4
+### Versión 1.5
 
 Proyecto de titulación en el instituto CETis 167.
 "Hermanos Flores Magón"
@@ -24,6 +24,8 @@ fcto-animate se remplazó por data-aos=""
 
 ```
 ```
+Update v1.5 meta
+
 Se actualizó la meta description para que nos de un poco de contexto 
 al momento de compartir.
 
