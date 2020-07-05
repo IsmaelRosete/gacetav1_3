@@ -1,6 +1,6 @@
 ## Página principal.
 ### Index.html
-### Versión 1.5
+### Versión 1.6
 
 Proyecto de titulación en el instituto CETis 167.
 "Hermanos Flores Magón"
@@ -28,6 +28,13 @@ Update v1.5 meta
 
 Se actualizó la meta description para que nos de un poco de contexto 
 al momento de compartir.
+
+03 / Julio / 2020 7:57pm
+```
+```
+Update v1.6
+
+Se añadió un enlace, y así mismo se actualizó esa parte que estaba vacía.
 
 03 / Julio / 2020 7:57pm
 ```
