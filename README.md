@@ -37,7 +37,9 @@ Update v1.6
 Se añadió un enlace, y así mismo se actualizó esa parte que estaba vacía.
 Se actualizó la tipografía a SF Display
 
-03 / Julio / 2020 7:57pm
+
+
+05 / Julio / 2020 00:05 am
 ```
 ## Autor
 * **Ismael Rosete** - *GACETIS* - [Lxrd17](https://github.com/Lxrd17)
