@@ -1,6 +1,6 @@
 ## Página principal.
 ### Index.html
-### Versión 1.6
+### Versión 1.7
 
 Proyecto de titulación en el instituto CETis 167.
 "Hermanos Flores Magón"
@@ -37,9 +37,15 @@ Update v1.6
 Se añadió un enlace, y así mismo se actualizó esa parte que estaba vacía.
 Se actualizó la tipografía a SF Display
 
-
-
 05 / Julio / 2020 00:05 am
+```
+```
+Update v1.7
+
+Se añadió el enlace a entretenimento y también el favicon
+por una portada hecha en ADOBE XD
+
+06 / Julio / 2020
 ```
 ## Autor
 * **Ismael Rosete** - *GACETIS* - [Lxrd17](https://github.com/Lxrd17)
