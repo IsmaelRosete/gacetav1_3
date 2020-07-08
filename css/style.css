@@ -439,6 +439,10 @@ mark,
     color: black;
     font-size: 20px;
   }
+.noticia{
+  padding-top: 4%;
+  margin-bottom: 2%;
+}
   img{
     width: 100%;
   }

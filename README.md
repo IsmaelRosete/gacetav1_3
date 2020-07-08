@@ -1,6 +1,6 @@
 ## Página principal.
 ### Index.html
-### Versión 1.8
+### Versión 2.0
 
 Proyecto de titulación en el instituto CETis 167.
 "Hermanos Flores Magón"
@@ -51,6 +51,15 @@ por una portada hecha en ADOBE XD
 Update v1.8
 
 Se añadió el apartado de SARS-CoV-2
+
+07 / Julio / 2020
+```
+```
+Update v2.0
+
+Se cambió la información del index, de director por 
+la del aniversario.
+Y así como tambíen se creo la parte del mismo aniversario.
 
 07 / Julio / 2020
 ```
