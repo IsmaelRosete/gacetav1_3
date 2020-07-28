@@ -63,6 +63,14 @@ Y así como tambíen se creo la parte del mismo aniversario.
 
 07 / Julio / 2020
 ```
+```
+Update v2.1
+
+Se añadió páginas de los demás integrantes, así como 
+la sección del error 404
+
+28 / Julio / 2020
+```
 ## Autor
 * **Ismael Rosete** - *GACETIS* - [Lxrd17](https://github.com/Lxrd17)
 
