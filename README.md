@@ -71,6 +71,15 @@ la sección del error 404
 
 28 / Julio / 2020
 ```
+```
+Update v2.2
+
+Se añadieron los terminos y condiciones
+así como la página de educación
+es fase de prueba mientras tanto a los formularios
+
+8 / Agosto / 2020
+```
 ## Autor
 * **Ismael Rosete** - *GACETIS* - [Lxrd17](https://github.com/Lxrd17)
 
