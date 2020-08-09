@@ -80,6 +80,13 @@ es fase de prueba mientras tanto a los formularios
 
 8 / Agosto / 2020
 ```
+```
+Update v2.3
+
+Actualización de apartado educación
+
+8 / Agosto / 2020
+```
 ## Autor
 * **Ismael Rosete** - *GACETIS* - [Lxrd17](https://github.com/Lxrd17)
 
