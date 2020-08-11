@@ -99,6 +99,8 @@ Documento de aviso de privacidad
 
 Corrección de faltas ortográficas
 
+History time
+
 10 / Agosto / 2020
 ```
 ## Autor
