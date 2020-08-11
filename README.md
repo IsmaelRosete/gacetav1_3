@@ -95,6 +95,8 @@ Documento de aviso de privacidad
 10 / Agosto / 2020
 ```
 ```
+2.5
+
 Corrección de faltas ortográficas
 
 10 / Agosto / 2020
