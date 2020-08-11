@@ -94,6 +94,11 @@ Documento de aviso de privacidad
 
 10 / Agosto / 2020
 ```
+```
+Corrección de faltas ortográficas
+
+10 / Agosto / 2020
+```
 ## Autor
 * **Ismael Rosete** - *GACETIS* - [Lxrd17](https://github.com/Lxrd17)
 
