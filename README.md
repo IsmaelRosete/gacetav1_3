@@ -1,6 +1,6 @@
 ## Página principal.
 ### Index.html
-### Versión 2.3
+### Versión 2.3 en adelante
 
 Proyecto de titulación en el instituto CETis 167.
 "Hermanos Flores Magón"
