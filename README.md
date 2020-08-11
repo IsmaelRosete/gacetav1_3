@@ -87,6 +87,13 @@ Actualización de apartado educación
 
 8 / Agosto / 2020
 ```
+```
+Update v2.4
+
+Documento de aviso de privacidad
+
+10 / Agosto / 2020
+```
 ## Autor
 * **Ismael Rosete** - *GACETIS* - [Lxrd17](https://github.com/Lxrd17)
 
