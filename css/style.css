@@ -1,10 +1,4 @@
-/*!
- * Bootstrap v4.2.1 (https://getbootstrap.com/)
- * Copyright 2011-2018 The Bootstrap Authors
- * Copyright 2011-2018 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
- @import url('../webfonts/fonts.css');
+@import url('../webfonts/fonts.css');
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -43,6 +37,21 @@ html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);}
+
+  ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    background-color: #fff;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+    background-color: #000;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ff0000;
+    border-radius: 5px;
+}
 
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }

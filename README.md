@@ -103,6 +103,17 @@ History time
 
 10 / Agosto / 2020
 ```
+```
+2.6
+
+Corrección de faltas ortográficas
+
+History time
+
+AVISO DE PRIVACIDAD ACTUALIZADO
+
+11 / Agosto / 2020
+```
 ## Autor
 * **Ismael Rosete** - *GACETIS* - [Lxrd17](https://github.com/Lxrd17)
 
